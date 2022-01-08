@@ -1,0 +1,17 @@
+# Jekyll
+_site/
+.jekyll-cache
+.jekyll-metadata
+.sass-cache
+
+# Ruby
+.ruby-version
+.bundle/
+Gemfile.lock
+
+# Folders
+/vendor
+_removed/
+
+# Other
+.vscode/

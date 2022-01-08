@@ -1,0 +1,8 @@
+---
+# For search engine crawlers
+---
+
+User-agent: *
+Disallow:
+
+Sitemap: {{ site.url }}/sitemap.xml
