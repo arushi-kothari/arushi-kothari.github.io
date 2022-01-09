@@ -2,7 +2,8 @@
 layout: post
 title: Should the age of marriage for women be raised to 21?
 description: Should the age of marriage for women be raised to 21?
-image: "/assets/images/age-of-marriage.jpg"
+excerpt: I was inspired to write this article after reading an editorial from The Hindu about the same. This captures my views and my understanding of the delicate topic. 
+image: "/assets/images/age-of-marriage.png"
 date: 2020-09-06 13:30:00 +0530
 ---
  While going about my daily business of lazying around I grabbed the newspaper from the pile and proceeded onto my newly found interest of reading the editorials of The Hindu. 

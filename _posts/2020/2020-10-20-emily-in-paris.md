@@ -2,7 +2,9 @@
 layout: post
 title: A Marketing Perspective on 'Emily in Paris'
 description: A Marketing Perspective on 'Emily in Paris'
-image: "/assets/images/emily-in-paris.jpg"
+excerpt: <i> Paris is for fresh perspectives. </i>
+ In this article, I review and attempt to breakdown the marketing campaigns from the well known Netflix Original, Emily in Paris.
+image: "/assets/images/emily-in-paris.png"
 date: 2020-10-20 13:30:00 +0530
 ---
 
