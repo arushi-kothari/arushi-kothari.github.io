@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A 'Fresh' Perspective - POND'S and Glow & Lovely
-description: A breakdown of the Kanyamaan advertisement by Manyavar-Mohey featuring Alia Bhatt
+description: A breakdown of the POND's and Fair & Lovely advertisement
 excerpt: Advertisement for products that revolve around grooming of the face have always been intriguing to me. In this article, I explore the various perspectives behind an advertisement for a POND's men face wash and the brand revamp of Fair & Lovely (now known as Glow & Lovely).
 image: "/assets/images/a fresh perspective.png"
 date: 2021-10-03 13:30:00 +0530
