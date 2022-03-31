@@ -45,7 +45,7 @@ Why I remember it: LOOK AT THAT BEAUTIFUL FLOWER WALL. The colours, the neon quo
 <BR>
 
 # Kaka-po 
-<img style="height:250px;margin-left:15px;margin-top:0px;float:right;" src="/assets/images/capture.png" />
+<img style="height:250px;margin-left:15px;float:right;" src="/assets/images/capture.png" />
 It would only be a rational and complete article if I mention the most dreadful place as well. We accidentally entered a high-end restaurant right after college, with our bags on our backs, hair scattered around and our faces looking like we came back from the Mars mission without sleeping. 
 
 There were 6 of us and we ordered a pizza and pasta. The quantity that they provided was lesser than what a bird would eat when it's on a diet (I have no memory of the taste, it was that average). It only left us feeling hangrier. But this is not even why we collectively want to forget this place. We wish to forget this cafe because our tummies were not the only thing that was left empty after this visit. :)
