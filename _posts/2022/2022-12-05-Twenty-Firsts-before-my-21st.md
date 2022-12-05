@@ -23,11 +23,11 @@ When I actually sat and thought about it, I realised that this year, the transit
 6. Learnt to make tea and cook my own breakfast (finally)
 7. Messed up the one exam that I studied for all of 2021 for
 8. Got my hair chopped the shortest they've been in years
-9. Witnessed my friend's iPhone being snatched from the auto 
+9. Witnessed my friend's iPhone being snatched from an auto 
 10. Went to the police station (to register a complaint, relax)
 11. Accidentally swore while talking to my mom
 12. Set my hair on fire (accidentally)
-13. Got placed in my dream company
+13. Got placed at my dream company
 14. Read the most books than I have in the last few years (yup, I read 3 books in total)
 15. Took care of my sick self, twice
 16. Lost my voice for a week
