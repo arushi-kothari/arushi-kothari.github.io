@@ -7,7 +7,7 @@ title: About
 
 Hello and welcome to my website!
 
-My name is Arushi Kothari and I am currently a final year student studying commerce at Delhi University.
+My name is Arushi Kothari and I am currently pursuing MBA from NMIMS, Mumbai.
 
 I have a keen interest in the field of Marketing & Advertising and I use this space to express my ideas and views about different brands, advertisements, books or news articles. 
 
