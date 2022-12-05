@@ -2,7 +2,7 @@
 layout: post
 title: Twenty Firsts before my Twenty First
 description: 
-excerpt: It feels as if the age of 20 has gone on longer than I expected it to go. With some major changes taking place in my life this year, I have compiled a list of 20 things that I did or those that happened with me for the first time while I was 20 years old.  
+excerpt: It feels as if the age of 20 had gone on longer than I expected it to go. With some major changes taking place in my life this year, I have compiled a list of 20 things that I did or those that happened with me for the first time while I was 20 years old.  
 image: "/assets/images/20-firsts-before-21st.png"
 date: 2022-12-05 00:30:00 +0530
 ---
