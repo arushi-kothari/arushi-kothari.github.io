@@ -127,7 +127,7 @@ Sunsets in Lansdowne were breathtaking. I used to sit and look at them for an ho
 <div class="w3-content w3-display-container">
   <img class="hi" src="/assets/images/sunset_1.jpg" style="width:50%">
   <img class="hi" src="/assets/images/sunset_2.jpg" style="width:50%">
-  <img class="hi" src="/assets/images/sunset_3.jpg" style="width:50%">
+  <img class="hi" src="/assets/images/sunset_3.JPG" style="width:50%">
   <img class="hi" src="/assets/images/sunset_4.jpg" style="width:50%">
   <img class="hi" src="/assets/images/sunset_5.jpg" style="width:50%">
  <img class="hi" src="/assets/images/sunset_6.jpg" style="width:50%">
