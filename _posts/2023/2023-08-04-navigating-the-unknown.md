@@ -11,11 +11,11 @@ date: 2023-08-04 00:30:00 +0530
 
 When people think of sunsets, they often think of going to the beach or going on a drive to watch it with their loved ones once in a while. However, for me, watching the sunset wasn't a once-in-a-while option rather it became a routine because it was the ONLY option I had for two months. 
 
-So, what happened? No, I didn't suddenly isolate myself from the world to watch the sunset, at least not on purpose. I got placed in Coimbatore as a part of my summer internship for a duration of 2 months. Due to my horrible geography, as embarrassing as it sounds, I had to make a quick Google search to find out which state Coimbatore is present in. 
+So, what happened? No, I didn't suddenly isolate myself from the world to watch the sunset, at least not on purpose. I got placed in Coimbatore as a part of my summer internship for a duration of 2 months. Due to my horrible geography skills, as embarrassing as it sounds, I had to make a quick Google search to find out which state Coimbatore is present in. 
 
 (It's in Tamil Nadu, by the way, if you're like me and didn't know this either :D)
 
-Now, I could make shit up like an over-enthusiastic influencer and tell you that I was looking forward to the two months of the internship but no. I was shitting my pants and I couldn't hide it. 
+Now, I could make shit up like an over-enthusiastic influencer and tell you that I was looking forward to the BEST two months of my ENTIRE life WOOHOO but no, I was shit scared. 
 
 <h3> <b> Phase 1: Panic </b> </h3>
 On getting to know the location for my internship, my immediate reaction was to spam all my group chats with friends, and their immediate reaction was to calm me down by telling me that it is a beautiful city. 
