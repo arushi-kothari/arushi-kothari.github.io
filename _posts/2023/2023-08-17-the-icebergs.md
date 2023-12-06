@@ -9,7 +9,7 @@ date: 2023-12-06 00:30:00 +0530
 
 <i> This blog post is a continuation of the previous blog post, which you can read <a href="https://arushikothari.com/navigating-the-unknown/"> here </a> </i>
 
-I was 8 when I learnt to ride a bicycle. Every evening, my mom used to take me down in the colony to practice riding on my royal pink cycle with two attached wheels for support. I used to struggle with not knowing where to look because all my motor senses were working in full force and my young brain was confused. I thought the best place to look at would be the ground because I would be able to look at my legs and hands both at once, that's when my mom caught me and told me off. She said, "If you keep looking at the ground, how are you going to tell where you're going or what you're hitting into? Look up, straight and forward!"
+I was 8 when I learned how to ride a bicycle. Every evening, my mom used to take me down in the colony to practice riding on my royal pink cycle with two attached wheels for support. I used to struggle with not knowing where to look because all my motor senses were working in full force and my young brain was confused. I thought the best place to look at would be the ground because I would be able to look at my legs and hands both at once, that's when my mom caught me and told me off. She said, "If you keep looking at the ground, how are you going to tell where you're going or what you're hitting into? Look up, straight and forward!"
 
 14 years later, I was able to make sense of this. The only difference was that I wasn't learning how to ride a bicycle anymore, I was learning how to navigate through life. 
 
