@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Navigating The Unknown | What Coimbatore Taught Me
+title: "Navigating The Unknown | What Coimbatore Taught Me #1"
 description: 
 excerpt: We often take human connection for granted in our everyday lives. I did too until I realised how essential it really is. This is not a story about living alone. This is a story about realising that sometimes you have no choice but to go through life alone.
 image: "/assets/images/navigating-the-unknown.png"

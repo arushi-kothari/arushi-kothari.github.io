@@ -3,15 +3,15 @@ layout: page
 title: About
 ---
 
-<img style="width:250px;margin-left:15px;float:right;" src="/assets/images/me2.jpg" />
+<img style="width:250px;margin-left:15px;float:right;" src="/assets/images/me3.jpg" />
 
 Hello and welcome to my website!
 
 My name is Arushi Kothari and I am currently pursuing MBA from NMIMS, Mumbai.
 
-I have a keen interest in the field of Marketing & Advertising and I use this space to express my ideas and views about different brands, advertisements, books or news articles. 
+I like to describe myself as a marketing enthusiast and I primarily use this blog to write about marketing concepts or advertisements that I find interesting. I also enjoy writing about instances from my life that leave a deep impact on me.
 
-I have also documented all my past professional work <a href="/my-work/"> here</a>.
+Apart from writing, I love creating and editing videos! I have documented all my past work <a href="/my-work/"> here</a>.
 
 Get in touch with me: contact@arushikothari.com
 
