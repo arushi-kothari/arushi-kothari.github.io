@@ -3,16 +3,17 @@ layout: page
 title: About
 ---
 
-<img style="width:250px;margin-left:15px;float:right;" src="/assets/images/me4.jpg" />
+<img style="width:250px;margin-left:15px;float:right;" src="/assets/images/me5.jpg" />
 
-Hello and welcome to my website!
+Hi, I'm Arushi Kothari.
 
-My name is Arushi Kothari and I am currently working at Johnson & Johnson.
+I work at Johnson & Johnson, but outside of work, I spend an embarrassing amount of time noticing why people buy what they buy, how brands talk to people, and what makes a story actually stick. Professionally, you'd call it consumer behaviour. Personally, it's just being nosy.
 
-I like to describe myself as a marketing enthusiast and I primarily use this blog to write about marketing concepts or advertisements that I find interesting. I also enjoy writing about instances from my life that leave a deep impact on me.
+I use this space to write about brands, culture, and the little things worth paying attention to. Occasionally, you'll also find me writing about my own experiences, I'm a firm believer in documenting life as it happens.
 
-Apart from writing, I love creating and editing videos! I have documented all my past work <a href="/my-work/"> here</a>.
+I also love creating videos and have documented all my past work <a href="/my-work/"> here</a>.
+<h6>PS: I also have a page on Instagram - it's just a hobby (go find me).</h6>   
 
-Get in touch with me: contact@arushikothari.com
+Say hello → contact@arushikothari.com
 
 <a href="https://www.linkedin.com/in/arushi-kothari-859a9b194/"><i class="fa fa-linkedin w3-hover-opacity" style="padding-left:relative;"></i></a>
