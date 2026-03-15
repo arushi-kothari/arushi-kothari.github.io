@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-<img style="width:250px;margin-left:15px;float:right;" src="/assets/images/me5.jpg" />
+<img style="width:200px;margin-left:15px;float:right;" src="/assets/images/me5.jpg" />
 
 Hi, I'm Arushi Kothari.
 
