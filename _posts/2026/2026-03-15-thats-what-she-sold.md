@@ -3,7 +3,7 @@ layout: post
 title: "Selling a Dead Medium to Gen Z | That's What She Sold"
 description: 
 excerpt: When was the last time you read the newspaper? I don't remember either. I attended a marketing event where I had to sell a printed physical newspaper to Gen Z. Being a Gen Z myself, it was quite a challenge. Read on to find out how I did it.
-image: "/assets/images/selling-a-dead-medium.png"
+image: "/assets/images/selling-a-dead-medium-1.png"
 date: 2026-03-15 00:30:00 +0530
 ---
 
