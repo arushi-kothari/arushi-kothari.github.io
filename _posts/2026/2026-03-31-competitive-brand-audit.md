@@ -46,11 +46,11 @@ I used to think visibility is a powerful advantage in retail outlets for FMCG pr
 <div style="max-width:800px;margin:auto;position:relative">
 
   <div class="mySlide1">
-    <img src="\assets\images\Faces Canada Competitive Audit Report - Arushi Kothari\slide3.jpg" style="width:100%;border-radius:10px;">
+    <img src="\assets\images\slide3.jpg" style="width:100%;border-radius:10px;">
   </div>
 
   <div class="mySlide1">
-    <img src="\assets\images\Faces Canada Competitive Audit Report - Arushi Kothari\slide4.jpg" style="width:100%;border-radius:10px;">
+    <img src="\assets\images\slide4.jpg" style="width:100%;border-radius:10px;">
   </div>
 
   <button class="prevBtn1" onclick="plusSlides1(-1)">❮</button>
@@ -115,11 +115,11 @@ Reviews act as social proof, and on marketplaces that social proof compounds ove
 <div style="max-width:800px;margin:auto;position:relative">
 
   <div class="mySlide2">
-    <img src="\assets\images\Faces Canada Competitive Audit Report - Arushi Kothari\slide5.jpg" style="width:100%;border-radius:10px;">
+    <img src="\assets\images\slide5.jpg" style="width:100%;border-radius:10px;">
   </div>
 
   <div class="mySlide2">
-    <img src="\assets\images\Faces Canada Competitive Audit Report - Arushi Kothari\slide6.jpg" style="width:100%;border-radius:10px;">
+    <img src="\assets\images\slide6.jpg" style="width:100%;border-radius:10px;">
   </div>
 
   <button class="prevBtn" onclick="plusSlides(-1)">❮</button>
@@ -199,11 +199,11 @@ This was more prevelant in the lipstick and foundation category where the shade 
 <div style="max-width:800px;margin:auto;position:relative">
 
   <div class="mySlide3">
-    <img src="/assets/images/Faces Canada Competitive Audit Report - Arushi Kothari/slide7.jpg" style="width:100%;border-radius:10px;">
+    <img src="/assets/images/slide7.jpg" style="width:100%;border-radius:10px;">
   </div>
 
   <div class="mySlide3">
-    <img src="/assets/images/Faces Canada Competitive Audit Report - Arushi Kothari/slide8.jpg" style="width:100%;border-radius:10px;">
+    <img src="/assets/images/slide8.jpg" style="width:100%;border-radius:10px;">
   </div>
 
   <button class="prevBtn3" onclick="plusSlides3(-1)">❮</button>
@@ -272,7 +272,7 @@ Which makes sense when you think about it. Bundles increase the order value, mak
 
 And that's how I continue to doomscroll even on non-social media apps. Just Kidding.
 
-<center><img src="/assets/images/Faces Canada Competitive Audit Report - Arushi Kothari/slide9.jpg"> </center>
+<center><img src="/assets/images/slide9.jpg"> </center>
 <center> <caption><i> Some reccommendations from my end </i> </caption></center>
 <br>
 I realised there are a lot more factors that go into placing a specific product in a specific slot on any E-commerce or quick commerce platform. I think I would unintentionally be looking out for certain things now when I'm scrolling through these apps.
