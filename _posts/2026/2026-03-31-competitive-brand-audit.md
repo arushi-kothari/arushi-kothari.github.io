@@ -46,11 +46,11 @@ I used to think visibility is a powerful advantage in retail outlets for FMCG pr
 <div style="max-width:800px;margin:auto;position:relative">
 
   <div class="mySlide1">
-    <img src="\assets\images\slide3.jpg" style="width:100%;border-radius:10px;">
+    <img src="/assets/images/slide3.jpg" style="width:100%;border-radius:10px;">
   </div>
 
   <div class="mySlide1">
-    <img src="\assets\images\slide4.jpg" style="width:100%;border-radius:10px;">
+    <img src="/assets/images/slide4.jpg" style="width:100%;border-radius:10px;">
   </div>
 
   <button class="prevBtn1" onclick="plusSlides1(-1)">❮</button>
@@ -115,11 +115,11 @@ Reviews act as social proof, and on marketplaces that social proof compounds ove
 <div style="max-width:800px;margin:auto;position:relative">
 
   <div class="mySlide2">
-    <img src="\assets\images\slide5.jpg" style="width:100%;border-radius:10px;">
+    <img src="/assets/images/slide5.jpg" style="width:100%;border-radius:10px;">
   </div>
 
   <div class="mySlide2">
-    <img src="\assets\images\slide6.jpg" style="width:100%;border-radius:10px;">
+    <img src="/assets/images/slide6.jpg" style="width:100%;border-radius:10px;">
   </div>
 
   <button class="prevBtn" onclick="plusSlides(-1)">❮</button>
