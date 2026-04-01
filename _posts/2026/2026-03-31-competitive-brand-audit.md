@@ -4,7 +4,7 @@ title: "What One Sold Out Lipstick Taught Me About E-Commerce"
 description: 
 excerpt: I only shop for cosmetics twice a year, which made the timing even worse when I discovered I’d run out of my beloved lipstick right before a week-long trip. But the bigger problem was that it was sold out everywhere online. What began as a desperate hunt for a single product slowly turned into a fascinating marketing lesson.
 image: "/assets/images/competitive-brand-audit.jpg"
-date: 2026-03-15 00:30:00 +0530
+date: 2026-03-31 00:30:00 +0530
 ---
 I pressed on the suitcase to close the corner of an overpacked bag for an International trip with my friends. I stood proudly once it was shut. Then it hit me, my <i> Lakme Rosy Sunday lipstick </i> was almost over and I had forgotten to buy a new one for the trip. 
 
