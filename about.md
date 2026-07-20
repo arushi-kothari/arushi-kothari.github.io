@@ -7,7 +7,7 @@ title: About
 
 Hi, I'm Arushi Kothari.
 
-I work at Johnson & Johnson, but outside of work, I spend an embarrassing amount of time noticing why people buy what they buy, how brands talk to people, and what makes a story actually stick. Professionally, you'd call it consumer behaviour. Personally, it's just being nosy.
+I work at Diageo, but outside of work, I spend an embarrassing amount of time noticing why people buy what they buy, how brands talk to people, and what makes a story actually stick. Professionally, you'd call it consumer behaviour. Personally, it's just being nosy.
 
 I use this space to write about brands, culture, and the little things worth paying attention to. Occasionally, you'll also find me writing about my own experiences, I'm a firm believer in documenting life as it happens.
 
