@@ -22,6 +22,10 @@ Orthopaedic industry may be niche but it's one of the most challenging industry 
 
 Here, the products are the implants which are technical in nature. As a sales rep, you're expected to be fluent in all the jargon and understand the science behind every implant. Coming from a non-medical background, that was personally a bit of a climb for me, but the trainings were rigorous enough to close the gap.
 
+<center><img src="/assets/images/friends.jpg" style="max-width:40%; max-height:auto%;"> </center>
+<center> <caption><i> One with my friends! </i> </caption></center>
+<br>
+
 The dealers are just as crucial. They're the ones who help us out when an implant is <b> URGENTLY </b> required before a surgery, so maintaining that relationship matters just as much as the one with the surgeon (more on that, below).
 
 ## How the Business Actually Runs
